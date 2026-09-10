@@ -60,7 +60,7 @@ Ensure you have installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Imtiaz-Ali17314/Password-Generator-App-React-Native.git
+   git clone https://github.com/imtiazaly/Password-Generator-App-React-Native.git
    cd Password-Generator-App-React-Native
    ```
 
