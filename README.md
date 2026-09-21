@@ -1,7 +1,7 @@
 # ⚡ SECUREGEN — React Native Password Generator
 
 <p align="center">
-  <img src="assets/images/passgen.PNG" alt="SECUREGEN App Preview" width="360" />
+  <img src="assets/passgen.PNG" alt="SECUREGEN App Preview" width="360" />
 </p>
 
 <p align="center">
